@@ -6,6 +6,7 @@
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shambu005" alt="shambu005" /></a> </p> -->
 
 <h3 align="left">Connect with me:</h3>
+<h2 align="centre">LinkedIn: Shambu linga</h2>
 <h2 align="centre">Insta: Shambu__005</h2>
 <h2 align="centre">Twitter: Shambu0007</h2>
 <p align="left">
