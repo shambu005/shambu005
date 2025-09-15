@@ -7,6 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <h2 align="centre">Insta: Shambu__005</h2>
+<h2 align="centre">Twitter: Shambu0007</h2>
 <p align="left">
 </p>
 
