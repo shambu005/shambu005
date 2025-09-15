@@ -18,3 +18,34 @@
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shambu005&show_icons=true&locale=en&layout=compact" alt="shambu005" /></p>-->
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shambu005&show_icons=true&locale=en" alt="shambu005" /></p>-->
+
+<h3 align="left">Additional Skills & Interests:</h3>
+<p align="left">
+    <!-- Programming Languages -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="sql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+</p>
+
+<h3 align="left">Job Roles & Interests:</h3>
+<ul>
+    <li>Software Developer</li>
+    <li>Full Stack Developer</li>
+    <li>Backend Developer</li>
+    <li>Frontend Developer</li>
+    <li>Data Scientist / Analyst</li>
+    <li>Machine Learning / AI Engineer</li>
+    <li>Embedded Systems Developer</li>
+    <li>DevOps / Cloud Engineer</li>
+    <li>Competitive Programmer</li>
+</ul>
+
+<h3 align="left">Additional Info:</h3>
+<ul>
+    <li>Hackathon Participant</li>
+    <li>Open to Collaboration</li>
+    <li>Project-based Learner</li>
+</ul>
